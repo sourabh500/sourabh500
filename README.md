@@ -1,3 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Sourabh%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1ABC9C&width=600&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot+%7C+Microservices;Freelancer+%7C+Building+Scalable+Systems;Open+to+Collaborations+%26+Projects)](https://git.io/typing-svg)
+
+---
+
 # 👋 Hi, I'm Sourabh  
 
 💻 **Backend Developer | Freelancer**  
@@ -20,9 +26,18 @@
 
 ## 📂 Featured Projects  
 🔹 [Telecom Billing System](https://github.com/sourabh500/telecom-billing-system) – Complete microservices-based billing platform  
-🔹 [Hotel Management System](https://github.com/sourabh500/hotel-management-system) – Spring boot + MySQL backend project   
+🔹 [Hotel Management System](https://github.com/sourabh500/hotel-management-system) – Spring Boot + MySQL backend project   
 
 👉 *More projects available in my repositories!*  
+
+---
+
+## 📊 GitHub Stats  
+![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh500&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh500&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sourabh500&theme=tokyonight&hide_border=true)  
 
 ---
 
