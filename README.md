@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh500&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=YOUR_PERSONAL_ACCESS_TOKEN)
+![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh500&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh500&layout=compact&theme=radical&token=YOUR_PERSONAL_ACCESS_TOKEN)
 
