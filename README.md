@@ -42,4 +42,4 @@
 
 ---
 
-⭐ **Open to Freelance Projects** → APIs, Database Design, Java Applications, and Microservices.  
+⭐ **Open to Freelance Projects** → APIs, Database Design, Java Applications, and Microservices.
