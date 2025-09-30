@@ -26,7 +26,7 @@
 
 ## 📂 Featured Projects  
 🔹 [Telecom Billing System](https://github.com/sourabh500/telecom-billing-system) – Complete microservices-based billing platform  
-🔹 [Hotel Management System](https://github.com/sourabh500/hotel-management-system) – Spring Boot + MySQL backend project   
+🔹 [Hotel Booking System](https://github.com/sourabh500/Hotel-booking-system) – Spring Boot + MySQL backend project +Microservices   
 
 👉 *More projects available in my repositories!*  
 
